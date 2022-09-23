@@ -1,6 +1,6 @@
 ---
 title: QMK Layer Issues and Troubleshooting
-tags: [QMK, Mechanical Keyboards, Programming]
+tags: [QMK, Mechanical Keyboards, Programming, Keyboards]
 categories: [Programming]
 ---
 

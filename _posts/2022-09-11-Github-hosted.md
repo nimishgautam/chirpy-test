@@ -24,8 +24,11 @@ Here are some of the pros and cons I found in that process.
 
 ## Pros
 
-### ✅ Free
-No hosting costs or subscription costs, big plus. But this extends beyond simple hosting costs and also covers maintenance costs. You don't have to update the underlying server, ensure it's secure, do any migrations[^3] or anything. Theoretically, your content will be fine, secure, and accessible for as long as github offers this service. As someone who has unfortunately left Wordpress installations idle for years, I can say this point shouldn't be overlooked.
+### ✅ Free hosting and infrastructure maintenance
+
+No hosting costs or subscription costs, big plus. But this extends beyond simple hosting costs and also covers maintenance costs. You don't have to update the underlying server, ensure it's secure, do any migrations[^3] or anything. No renewing SSL certificates, renewing domain names, etc. Theoretically, your content will be fine, secure, and accessible for as long as github offers this service. 
+
+As someone who has unfortunately left Wordpress installations idle for years, I can say this point shouldn't be overlooked.
 
 ### ✅ Full Content control
 You control the code that's deployed in its final form; the platform doesn't add advertising banners without you knowing or otherwise break up or reflow your content in ways you didn't anticipate.
